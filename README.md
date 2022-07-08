@@ -1,0 +1,2 @@
+# gitRepo
+for practicing GIT
